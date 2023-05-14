@@ -1,4 +1,4 @@
-# WebofScience-g_index
+# Web_of_Science-g_index
 Web of Science 作者G_index计算
 ## 程序实现什么？ 
 selenium+chrome计算并输出web of science作者的g指数（顺带输出h指数） 
