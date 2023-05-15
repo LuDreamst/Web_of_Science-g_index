@@ -3,7 +3,7 @@ Web of Science 作者G_index计算
 ## 程序实现什么？ 
 因g指数无法直观显示，手动计算又十分麻烦，故用selenium+chrome计算并输出web of science作者的g指数（顺带输出h指数） 
 ## 我所使用的配置 
-1.python3.9+selenium(建议3.6以上)  
+1.python3.9+selenium(建议3.6以上)，g_index2.py应用undetected_chromedriver  
 2.google_chrome+chromedriver(二者的版本号须一致)  
 3.windows10(11亦可)  
 ## 如何操作？ 
